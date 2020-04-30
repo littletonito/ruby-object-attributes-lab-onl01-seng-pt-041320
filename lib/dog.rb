@@ -11,9 +11,9 @@ class Dog
     @name
   end
   
-  def
+  def breed= ()
   end
   
-  def
+  def breed
   end
 end
