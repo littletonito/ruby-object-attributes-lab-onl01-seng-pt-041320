@@ -11,4 +11,11 @@ class Person
   end
   
   
+  
+  def 
+  end
+
+  def
+  end
+  
 end
