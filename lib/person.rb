@@ -3,11 +3,11 @@
 class Person
   
   def name= (human)
-    @ = human
+    @name = human
   end
 
   def name 
-    @
+    @name
   end
   
   
