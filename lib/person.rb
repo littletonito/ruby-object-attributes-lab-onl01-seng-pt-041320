@@ -2,10 +2,12 @@
 
 class Person
   
-  def
+  def name= (human)
+    @ = human
   end
 
-  def
+  def name 
+    @
   end
   
   
