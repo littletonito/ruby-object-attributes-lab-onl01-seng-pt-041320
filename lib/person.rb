@@ -12,10 +12,10 @@ class Person
   
   
   
-  def 
+  def job= ()
   end
 
-  def
+  def job
   end
   
 end
